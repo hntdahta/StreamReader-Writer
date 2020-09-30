@@ -1,0 +1,13 @@
+C:\Users\hntdahta\source\repos\StreamReader-Writer\bin\Debug\netcoreapp3.1\StreamReader-Writer.exe
+C:\Users\hntdahta\source\repos\StreamReader-Writer\bin\Debug\netcoreapp3.1\StreamReader-Writer.deps.json
+C:\Users\hntdahta\source\repos\StreamReader-Writer\bin\Debug\netcoreapp3.1\StreamReader-Writer.runtimeconfig.json
+C:\Users\hntdahta\source\repos\StreamReader-Writer\bin\Debug\netcoreapp3.1\StreamReader-Writer.runtimeconfig.dev.json
+C:\Users\hntdahta\source\repos\StreamReader-Writer\bin\Debug\netcoreapp3.1\StreamReader-Writer.dll
+C:\Users\hntdahta\source\repos\StreamReader-Writer\bin\Debug\netcoreapp3.1\StreamReader-Writer.pdb
+C:\Users\hntdahta\source\repos\StreamReader-Writer\obj\Debug\netcoreapp3.1\StreamReader-Writer.csprojAssemblyReference.cache
+C:\Users\hntdahta\source\repos\StreamReader-Writer\obj\Debug\netcoreapp3.1\StreamReader-Writer.AssemblyInfoInputs.cache
+C:\Users\hntdahta\source\repos\StreamReader-Writer\obj\Debug\netcoreapp3.1\StreamReader-Writer.AssemblyInfo.cs
+C:\Users\hntdahta\source\repos\StreamReader-Writer\obj\Debug\netcoreapp3.1\StreamReader-Writer.csproj.CoreCompileInputs.cache
+C:\Users\hntdahta\source\repos\StreamReader-Writer\obj\Debug\netcoreapp3.1\StreamReader-Writer.dll
+C:\Users\hntdahta\source\repos\StreamReader-Writer\obj\Debug\netcoreapp3.1\StreamReader-Writer.pdb
+C:\Users\hntdahta\source\repos\StreamReader-Writer\obj\Debug\netcoreapp3.1\StreamReader-Writer.genruntimeconfig.cache
